@@ -1,6 +1,6 @@
-##This is an app on React for iTechArt
+## This is an app on React for iTechArt
 
-###App for iTechArt by course Udemy(iqbal125)
+### App for iTechArt by course Udemy(iqbal125)
 
 - React with Redux, 
 - React-Router, 
